@@ -1,4 +1,5 @@
 A simple program of keyboard written in C on 8051 chip.
+
 Primary Components:
 1. 8051
 2. 7-seg LED
